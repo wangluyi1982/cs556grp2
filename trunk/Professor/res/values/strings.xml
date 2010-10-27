@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Professor!</string>
+    <string name="app_name">Professor</string>
+    <string name="about_title">About Professor </string>
+    <string name="about_text">The professor is the teacher</string>
+    <string name="Add_Node"></string>
+    <string name="expandable_list_sample_action"></string>
+    
+</resources>
