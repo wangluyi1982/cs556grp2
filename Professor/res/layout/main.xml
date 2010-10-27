@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:textSize="24dp" android:padding="50dp" android:text="Knowledge Advantage Machine"/>
+<LinearLayout android:id="@+id/LinearLayout01" android:layout_width="wrap_content" android:layout_height="wrap_content"><Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Addnode" android:padding="30dp" android:id="@+id/buttonAdd"></Button><Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="View" android:padding="30dp" android:id="@+id/buttonView"></Button><Button android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="About" android:padding="30dp" android:id="@+id/buttonAbout"></Button></LinearLayout>
+
+
+
+</LinearLayout>
