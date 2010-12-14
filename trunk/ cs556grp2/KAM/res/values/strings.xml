@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">KAM</string>
+    <string name="app_name">KAM</string>
+    
+   <string name="about_text">ABOUT THE KAM APP
+   
+    </string>
+    <string name="expandable_list_sample_action"></string>
+</resources>
